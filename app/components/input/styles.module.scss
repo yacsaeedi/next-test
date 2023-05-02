@@ -1,0 +1,7 @@
+.container {
+    @apply my-1 flex w-full flex-col justify-start;
+
+    .input{
+        @apply placeholder:text-gray-dark-3 text-gray-dark-4 bg-transparent flex w-full outline-none ltr:pl-3 rtl:pr-3 text-lg;
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "events_categories": [
+    {
+      "id": "london",
+      "title": "Events in London",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+      "image": "https://fakeimg.pl/350x200/?text=Hello"
+    },
+    {
+      "id": "international-conference-on-industrial-design",
+      "title": "International Conference on Industrial Design",
+      "city": "barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://fakeimg.pl/250x100/ff0000/",
+      "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+    },
+    {
+      "id": "world-congress-2022---barcelona",
+      "title": "World Congress 2022 - Barcelona",
+      "city": "barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://fakeimg.pl/350x200/ff0000,128/000,255",
+      "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+    },
+    {
+      "id": "riskminds-international",
+      "title": "RiskMinds International",
+      "city": "barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://fakeimg.pl/350x200/ff0000,128/000,255",
+      "emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+    }
+  ]
+}
